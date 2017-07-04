@@ -1,0 +1,18 @@
+[user]
+	name = Vhilly Santiago
+	email = vhilly.santiago@icloud.com
+[color]
+	ui = auto
+	diff = auto
+	status = auto
+	branch = auto
+[alias]
+	b = branch
+	ci = commit
+	st = status
+	co = checkout
+	f = fetch
+	pr = pull --rebase
+	d = diff
+	dc = diff --color-words
+	l = log
